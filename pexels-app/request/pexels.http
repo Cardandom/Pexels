@@ -1,0 +1,2 @@
+curl -H "Authorization: QbEbwaJ0QoPlVtTsdl2EZ2AOeHQSCK3g4uUfvmjxnk4x4rQAJ0Ef3NZh" \
+  "https://api.pexels.com/v1/search?query=animals"
